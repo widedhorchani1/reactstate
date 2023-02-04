@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+img{
+  border-radius: 50%;
+}
+button{
+  font-size: 100px;
+  background-color:rgb(181, 5, 175);
+  color: beige;
+  border-radius: 40%;
+  border: none;
+}
+#count{
+background-color: beige;
+color: black;
+}
+h1{
+  color: azure;
+}
